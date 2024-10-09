@@ -2,7 +2,7 @@ I am a Software Engineer with almost 3 years of experience. for the past year i 
 
 Throughout my career, I have demonstrated super flexibility in learning new technologies quickly and delivering high-quality results. In terms of communication, I have worked as the project and team lead for two of the projects we built in the Academy so far.I learned a ton from working with different people, i made sure that we are on time for shipping our MVP, while fostering a super friendly environment in our team.
 
-In the past seven months, I fell in love with system design and cloud, which led me to back-end development, a field I am truly passionate about. My expertise in back-end and front-end development and includes:
+In the past seven months, I fell in love with system design and cloud, which led me to back-end development, My expertise in back-end and front-end development includes:
 
 ---
 
