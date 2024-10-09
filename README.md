@@ -1,4 +1,4 @@
-I am a Software Engineer with almost 3 years of experience, for the past year i had my internship at the Apple Developer Academy and started learning iOS development with Swift and SwiftUI. I developed five apps, working with five different teams each time with four other teammates, and tested our apps with over 100 users. I learned a completely new environment to develop in (Apple environment) within just two months. I am honoured to say that I was among the top winners of the Apple WWDC Swift Student Challenge 2024 ([more info on my LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7179211129062047744/)).
+I am a Software Engineer with almost 3 years of experience. for the past year i had my internship at the Apple Developer Academy and started learning iOS development with Swift and SwiftUI. I developed five apps, working with five different teams each time with four other teammates, and tested our apps with over 100 users. I learned a completely new environment to develop in (Apple environment) within just two months. I am honoured to say that I was among the top winners of the Apple WWDC Swift Student Challenge 2024 ([more info on my LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7179211129062047744/)).
 
 Throughout my career, I have demonstrated super flexibility in learning new technologies quickly and delivering high-quality results. In terms of communication, I have worked as the project and team lead for two of the projects we built in the Academy so far.I learned a ton from working with different people, i made sure that we are on time for shipping our MVP, while fostering a super friendly environment in our team.
 
@@ -6,7 +6,7 @@ In the past seven months, I fell in love with system design and cloud, which led
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 
